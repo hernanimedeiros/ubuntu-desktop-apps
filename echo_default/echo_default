@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+pactl unload-module module-echo-cancel
+pactl load-module module-echo-cancel source_name=noiseless sink_name=noiseless_sink
+pacmd set-default-source noiseless
+pacmd set-default-sink noiseless_sink

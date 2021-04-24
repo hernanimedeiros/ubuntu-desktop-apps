@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Devilbox Start
+Comment=Devilbox Start
+Exec=devilbox_run
+Icon=utilities-root-terminal
+Type=Application
+Categories=Development;

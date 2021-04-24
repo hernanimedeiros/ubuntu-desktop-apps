@@ -6,10 +6,10 @@
 Run your Devilbox Development Environment in one touch. Close it with ctrl+c
 
 ### echo_default
-enable noise cancellation to your microphone (default)
+Enable echo cancellation to your microphone (default)
 
 ### echo_webrtc
-enable noise cancellation to your microphone (webrtc)
+Enable echo cancellation to your microphone (webrtc)
 
 ## Install instructions
 Attention! If this will be your first contact with terminal, maybe this project is not for you. Otherwise if you use terminal sometimes go ahead.
@@ -18,14 +18,14 @@ In each folder of this project there are 2 files: the script (app_name) and the 
 
 After copy the files to your home folder:
 
--Install the app, making it executable. You can do this easly in command line:
+- Install the app, making it executable. You can do this easly in command line:
 
 ```
 sudo install app_name /usr/local/bin
 ```
 
 
--Copy appname.desktop to ~/.local/share/applications/
+- Copy appname.desktop to ~/.local/share/applications/
 You can do this also from the command line:
 
 ```

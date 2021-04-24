@@ -25,8 +25,7 @@ sudo install app_name /usr/local/bin
 ```
 
 
-- Copy appname.desktop to ~/.local/share/applications/
-You can do this also from the command line:
+- Copy appname.desktop to ~/.local/share/applications/. You can do this also from the command line:
 
 ```
 cp app_name.desktop ~/.local/share/applications/

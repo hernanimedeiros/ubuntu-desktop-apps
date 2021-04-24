@@ -19,9 +19,10 @@ In each folder of this project there are 2 files: the script (app_name) and the 
 After copy the files to your home folder:
 
 -Install the app, making it executable. You can do this easly in command line:
-'''
+
+```
 sudo install app_name /usr/local/bin
-'''
+```
 
 
 -Copy appname.desktop to ~/.local/share/applications/

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Inkscape
+Comment=Inkscape (AppImage)
+Exec=/home/username/Apps/Inkscape.AppImage
+Icon=/home/username/Icons/inkscape.png
+Type=Application
+Categories=Edition;

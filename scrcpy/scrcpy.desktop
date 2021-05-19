@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Scrcpy
+Comment=Scrcpy
+Exec=scrcpy
+Icon=/home/username/Icons/scrcpy.png
+Type=Application
+Categories=Office;

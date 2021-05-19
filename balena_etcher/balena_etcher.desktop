@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Balena Etcher
+Comment=Balena Etcher (AppImage)
+Exec=/home/username/Apps/balenaEtcher.AppImage
+Icon=/home/username/Icons/balena_etcher.png
+Type=Application
+Categories=Edition;

@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=Echo Cancel PulseAudio Module
+Name=Default (EC)
 Comment=Load the PulseAudio module-echo-cancel
 Exec=echo_default
 Icon=multimedia-volume-control

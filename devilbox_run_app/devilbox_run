@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-gnome-terminal --tab --title="devilbox" --command="bash -c 'cd /home/robbieasimov/Dropbox/projects/Docker_devilbox; sudo docker-compose up; $SHELL'"
+gnome-terminal --tab --title="devilbox" --command="bash -c 'cd /home/username/Dropbox/projects/Docker_devilbox; sudo docker-compose up; $SHELL'"
